@@ -1,2 +1,3 @@
-# desafio-caixa-eletronico
-Desafio de notas de caixa eletrônico
+# Desafio caixa eletrônico
+
+Para executar bastar abrir o arquivo `src/index.html`.
